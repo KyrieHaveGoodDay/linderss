@@ -91,4 +91,8 @@ h1 {
   width: 32px;
   height: 32px;
 }
+
+.disclaimer {
+  display: none !important;
+}
 /*# sourceMappingURL=style.css.map */
